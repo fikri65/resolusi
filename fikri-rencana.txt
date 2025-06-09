@@ -1,0 +1,3 @@
+Rencana 
+- Mahir dengan PHP dan Javascript
+- Mahir dengan Vue dan Laravel
