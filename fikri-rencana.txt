@@ -1,4 +1,5 @@
 Rencana 
 - Mahir dengan PHP dan Javascript
+ - ES6 
 - Mahir dengan Vue dan Laravel
 - Mahir dengan VCS
