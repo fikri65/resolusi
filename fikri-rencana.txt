@@ -1,4 +1,6 @@
 Rencana 
 - Mahir dengan PHP dan Javascript
-- Mahir dengan Vue dan Laravel, React
+ - ES6, async, fetch
+- Mahir dengan Vue dan Laravel
 - Mahir dengan VCS
+- Python
